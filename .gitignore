@@ -130,3 +130,11 @@ dmypy.json
 
 # vscode settings
 .vscode
+
+# Output
+output/*
+!output/.gitkeep
+
+# Input
+input/*
+!input/.gitkeep
