@@ -1,0 +1,5 @@
+# vscode-jupyter-project requirements
+jupyterlab
+pandas
+geopandas
+
