@@ -2,4 +2,11 @@
 jupyterlab
 pandas
 geopandas
+numpy
+shapely
+fiona
+pyproj
+six
+geopy
+matplotlib
 

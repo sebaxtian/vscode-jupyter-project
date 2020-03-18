@@ -16,6 +16,13 @@ You can review the source code into [./src](./src) directory
 * Jupyterlab
 * Pandas
 * GeoPandas
+* Numpy
+* Shapely
+* Fiona
+* PyProj
+* Six
+* GeoPy
+* MapPlotLib
 
 ---
 
