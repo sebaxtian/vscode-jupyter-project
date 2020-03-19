@@ -8,5 +8,5 @@ fiona
 pyproj
 six
 geopy
+descartes
 matplotlib
-

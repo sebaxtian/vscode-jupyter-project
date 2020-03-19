@@ -22,6 +22,7 @@ You can review the source code into [./src](./src) directory
 * PyProj
 * Six
 * GeoPy
+* Descartes
 * MapPlotLib
 
 ---
@@ -45,6 +46,15 @@ Install all Python requirements
 
 ```bash
 $promt> pip3 install -r requirements.txt
+```
+
+### Step 3
+
+Run Python Script from [./src](./src)
+
+```bash
+$promt> cd ./src
+$promt> python csv_to_geojson.py
 ```
 
 ### Step N
